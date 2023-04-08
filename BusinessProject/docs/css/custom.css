@@ -1,0 +1,13 @@
+.terminal {
+    background-color: #2e3436;
+    color: #ffffff;
+    font-family: monospace;
+    padding: 1rem;
+    border-radius: 4px;
+    overflow: auto;
+    white-space:pre;
+    
+}
+
+img[alt=checking_node_version] { width: absolute; height: 70px; align: center;}
+img[alt=adding_type] { width: 200px; height: 300px; align: center;}
