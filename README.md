@@ -49,10 +49,6 @@ To install the Fetch API, you can use the npm library. This section provides ins
 
 The Fetch Structure section provides a detailed explanation of the structure of the Fetch API. It includes examples of code that fetch data from a given URL and log the mapped coordinates to the console.
 
-## Troubleshooting
-
-The Troubleshooting section provides solutions to common problems that you may encounter while working with the Fetch API.
-
 ## Glossary
 
 The Glossary provides a list of terms and their definitions that are commonly used in the Fetch API documentation. It includes terms such as Fetch, Response, Request, Body, Headers, CORS, Cache, Promise, async/await, Blob, FormData, JSON, and URL.
