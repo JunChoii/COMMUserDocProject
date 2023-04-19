@@ -30,7 +30,7 @@ const promise = new Promise((resolve, reject) => {
 
 In promise, you pass in two parameters in the callback function:
 
-resolve - runs the function successfully and returns data. Recieves the result using `.then()`
+resolve - runs the function successfully and returns data. Receives the result using `.then()`
 
 reject - if there is an error running the function, reject is called and get error result using `.catch()`
 
