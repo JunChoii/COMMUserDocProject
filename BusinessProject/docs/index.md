@@ -45,3 +45,7 @@ fetch(url, options)
 You see the similarity between `fetch` and `promise`?
 
 Now, in the next page, let's go through how to actually use `fetch()`.
+
+## Conclusion
+In summary, the Fetch API provides a strong and effective substitute for XMLHttpRequest for JavaScript network request handling. Fetch API offers a more practical and streamlined syntax for asynchronous communication by utilizing Promises. You may develop online apps that are more effective and responsive by having a rudimentary understanding of the Fetch API, Promises, and asynchronous programming.
+
