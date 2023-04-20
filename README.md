@@ -51,7 +51,7 @@ The Fetch Structure section provides a detailed explanation of the structure of 
 
 ## Glossary
 
-The Glossary provides a list of terms and their definitions that are commonly used in the Fetch API documentation. It includes terms such as Fetch, Response, Request, Body, Headers, CORS, Cache, Promise, async/await, Blob, FormData, JSON, and URL.
+The Glossary provides a list of terms and their definitions that are commonly used in the Fetch API documentation. It includes terms such as Fetch, Response, Request, Promise, async/await,FormData, JSON, and URL.
 
 ## Conclusion
 
